@@ -1,7 +1,3 @@
----
-title: Mini Maker Mill
----
-
 # Mini Maker Mill
 
 ## Objective
