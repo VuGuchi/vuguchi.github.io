@@ -1,7 +1,3 @@
----
-title: Anthony D. Vu | Mechanical Engineering Portfolio
----
-
 # Anthony D. Vu
 Mechanical Engineer | CAD & Mechanical Design | Prototyping
 
