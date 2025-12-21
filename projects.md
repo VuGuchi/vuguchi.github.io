@@ -1,7 +1,3 @@
----
-title: Projects
----
-
 # Projects
 
 A selection of mechanical engineering projects spanning CAD design, prototyping, reverse engineering, experimentation, and concept development.
