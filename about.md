@@ -1,4 +1,4 @@
-[Home](/) |[About](/about.md) | [Projects](/projects.md) 
+[Home](/) | [About](/about.md) | [Projects](/projects.md) 
 
 ---
 
