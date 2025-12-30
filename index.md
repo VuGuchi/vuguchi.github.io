@@ -1,3 +1,7 @@
+[Home](/) | [Projects](/projects.md) | [About](/about.md)
+
+---
+
 # Anthony D. Vu
 Mechanical Engineer | CAD & Mechanical Design | Prototyping
 
