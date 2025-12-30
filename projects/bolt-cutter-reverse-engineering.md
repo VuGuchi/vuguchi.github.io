@@ -25,5 +25,5 @@ The completed CAD model accurately represented the bolt cutters’ operation, in
 
 ## Media
 ![Bolt Cutter Exploded Drawing](../assets/images/BoltCutter1.png)
-Bolt Cutters (Exploded Drawing)
+Bolt Cutters Drawing & BOM (Exploded View)
 
