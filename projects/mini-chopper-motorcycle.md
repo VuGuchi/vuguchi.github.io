@@ -29,4 +29,4 @@ The final assembly achieved structural integrity and ergonomic balance through i
 
 | Physical Assembly |
 |---|
-| ![Mini Chopper](../assets/images/MiniChopper2.png) |
+| ![Mini Chopper](../assets/images/MiniChopper1.png) |
