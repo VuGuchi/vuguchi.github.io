@@ -21,9 +21,9 @@ The final design package included complete SolidWorks assemblies, detailed part 
 
 ## Media
 | Industrial Barbeque Grill Drawing |
-|-----------------------------------|
-![Drawing](../assets/images/IndustrialBBQ1.png)
+|---|
+| ![Drawing](../assets/images/IndustrialBBQ1.png) |
 
 | Industrial Barbeque Grill Drawing (Exploded View & BOM) |
-|---------------------------------------------------------|
-![Drawing](../assets/images/IndustrialBBQ2.png)
+|---|
+| ![Drawing](../assets/images/IndustrialBBQ2.png) |
