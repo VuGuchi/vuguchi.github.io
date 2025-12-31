@@ -22,6 +22,7 @@ Design and fabricate key mechanical subsystems for a miniature chopper motorcycl
 The final assembly achieved structural integrity and ergonomic balance through iterative refinement. The spring hinge effectively absorbed dynamic loads, and the seat pan met comfort and dimensional goals. The battery mount successfully completed the electrical subsystem housing, contributing to overall system functionality. The project demonstrated practical integration of 3D design, fabrication, and mechanical testing within a small-scale motorcycle platform.
 
 ## Media
+
 | Seat Pan & Spring Hinge Assembly | Battery Mount Assembly |
 |----------------------------------|------------------------|
 | ![Seat Pan & Spring Hinge Assembly](../assets/images/MiniChopper3A.png) | ![Battery Housing 3D Model](../assets/images/MiniChopper2.png) |
