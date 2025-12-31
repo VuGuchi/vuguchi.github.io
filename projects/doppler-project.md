@@ -26,7 +26,7 @@ The demonstration effectively showcased the real-world application of the Dopple
 ## Media
 | CAD Model Rev A | CAD Model Rev B|
 |-----------------|----------------|
-| ![Doppler 3D Model](../assets/images/Doppler1.png) | ![Doppler 3D Model](../assets/images/Doppler2.png) |
+| ![Doppler 3D Model](../assets/images/Doppler2.png) | ![Doppler 3D Model](../assets/images/Doppler1.png) |
 
 | Physical Assembly |
 |-------------------|
