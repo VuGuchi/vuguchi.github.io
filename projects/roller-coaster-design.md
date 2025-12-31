@@ -32,3 +32,6 @@ Track Layout
 |--------------|-------------------|-------------------|
 |![Acceleration Safety Chart](../assets/images/case1-3.png) | ![Acceleration Safety Chart](../assets/images/case1-2.png) | ![Acceleration Safety Chart](../assets/images/case1-1.png) | 
 |![Acceleration Safety Chart](../assets/images/case1-6.png) | ![Acceleration Safety Chart](../assets/images/case1-5.png) | ![Acceleration Safety Chart](../assets/images/case1-4.png) | 
+
+![Elevation Chart](../assets/images/RollerCoaster1.png) 
+Elevation Chart
