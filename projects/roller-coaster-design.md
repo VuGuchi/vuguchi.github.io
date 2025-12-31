@@ -26,6 +26,7 @@ Delivered a comprehensive engineering plan for a 1.75-minute ride spanning 1156.
 
 ## Media
 ![Track Layout](../assets/images/rollercoaster3.png)  
+Track Layout
 
 |            |Acceleration Safety Charts |             |
 |--------------|-------------------|-------------------|
