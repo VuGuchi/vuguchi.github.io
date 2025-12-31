@@ -20,7 +20,10 @@ Design a robust, mobile grill system tailored for large outdoor gatherings and c
 The final design package included complete SolidWorks assemblies, detailed part drawings, and a bill of materials. While a physical prototype was not constructed, the grill design was well-received for its practicality, mobility features, and attention to structural detail. The project demonstrated a clear understanding of mechanical design and human factor, and product development workflows.
 
 ## Media
+| Industrial Barbeque Grill Drawing |
+|-----------------------------------|
 ![Drawing](../assets/images/IndustrialBBQ1.png)
-Industrial Barbeque Grill Drawing
+
+| Industrial Barbeque Grill Drawing (Exploded View & BOM) |
+|---------------------------------------------------------|
 ![Drawing](../assets/images/IndustrialBBQ2.png)
-Industrial Barbeque Grill Drawing (Exploded View & BOM)
