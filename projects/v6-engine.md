@@ -23,6 +23,7 @@ To acquire working knowledge of a V6 engine by researching the functional roles 
 Created a simple reference guide with their commonly used materials. For instance, forged aluminum is often used for pistons due to its lightweight properties, and cast iron is frequently used for exhaust manifolds for its durability. This project provided foundational knowledge of component function
 
 ## Media
+
 | CAD Model Assembly |
 |---|
 | ![V6 Engine Assembly](../assets/images/V6_3.png) |
@@ -30,4 +31,3 @@ Created a simple reference guide with their commonly used materials. For instanc
 | CAD Model of Piston Mechanism Assembly | CAD Model of Cam Shafts & Valves |
 |----------------------------------------|----------------------------------|
 | ![CAD Model of Piston Mechanism Assembly](../assets/images/V6_1.png) | ![CAD Model of Cam Shafts & Valves](../assets/images/V6_2.png) |
-
