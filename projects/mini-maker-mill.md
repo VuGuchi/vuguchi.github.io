@@ -24,8 +24,13 @@ Demonstrated rotational switching between heads and basic motion control while m
 
 ## Media
 ![3D Modeled Assembly](../assets/images/MiniMakerMillAssembly.png)
+
 CAD Modeled Assembly
+
 ![3D Modeled Assembly](../assets/images/MiniMakerMill2.png)
+
 Physical Assembly
+
 ![3D Modeled Assembly](../assets/images/MiniMakerMill3.png)
+
 Electrical Schematic
