@@ -23,6 +23,7 @@ Design and develop a hybrid manufacturing system capable of CNC milling and 3D p
 Demonstrated rotational switching between heads and basic motion control while meeting footprint and strength constraints.
 
 ## Media
+
 | CAD Modeled Assembly | Physical Assembly |
 |----------------------|-------------------|
 | ![3D Modeled Assembly](../assets/images/MiniMakerMillAssembly.png) | ![3D Modeled Assembly](../assets/images/MiniMakerMill2.png) |
