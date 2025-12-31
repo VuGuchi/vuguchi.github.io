@@ -25,4 +25,4 @@ To design an immersive, Minecraft-themed roller coaster incorporating mechanical
 Delivered a comprehensive engineering plan for a 1.75-minute ride spanning 1156.5 meters with four trains. Validated mechanical systems (chain lift, support structure, restraints, braking) against worst-case loads. The project merged storytelling, VR integration, and mechanical safety into a professional grade concept suitable for theme park applications
 
 ## Media
-| ![Track Layout](../assets/images/rollercoaster3.png) | ![Acceleration Safety Chart](../assets/images/case1-1.png)
+| ![Track Layout](../assets/images/rollercoaster3.png) | ![Acceleration Safety Chart](../assets/images/case1-1.png) |
