@@ -35,5 +35,5 @@ Delivered a comprehensive engineering plan for a 1.75-minute ride spanning 1156.
 |![Acceleration Safety Chart](../assets/images/case1-6.png) | ![Acceleration Safety Chart](../assets/images/case1-5.png) | ![Acceleration Safety Chart](../assets/images/case1-4.png) | 
 
 | Elevation Chart |
-|-----------------|
-![Elevation Chart](../assets/images/RollerCoaster1.png) 
+|---|
+| ![Elevation Chart](../assets/images/RollerCoaster1.png) |
