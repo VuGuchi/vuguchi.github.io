@@ -26,7 +26,7 @@ The completed CAD model accurately represented the bolt cutters’ operation, in
 ## Media
 | Bolt Cutters Drawing & BOM (Exploded View) |
 |--------------------------------------------|
-![Bolt Cutter Exploded Drawing](../assets/images/BoltCutter1.png)
+| ![Bolt Cutter Exploded Drawing](../assets/images/BoltCutter1.png) |
 
 | Static Analysis (Jaws) | Static Analysis (Handle) |
 |--------------|-------------------|
