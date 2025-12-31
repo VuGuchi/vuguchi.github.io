@@ -24,6 +24,7 @@ Disassemble and analyze a mechanical tool to reverse engineer it into a CAD mode
 The completed CAD model accurately represented the bolt cutters’ operation, including their compound leverage mechanism. The report provided a clear understanding of the reverse engineering process and detailed insights into the tool’s design and functionality. The project reinforced key concepts in mechanical design and assembly alignment.
 
 ## Media
+
 | Bolt Cutters Drawing & BOM (Exploded View) |
 |---|
 | ![Bolt Cutter Exploded Drawing](../assets/images/BoltCutter1.png) |
